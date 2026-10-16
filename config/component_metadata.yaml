@@ -11,6 +11,6 @@ releases:
   - name: Model as a service
     version: v0.2.0
     repoUrl: https://github.com/opendatahub-io/models-as-a-service
-  - name: AI Gateway Payload Processing
-    version: v0.1.0
-    repoUrl: https://github.com/opendatahub-io/ai-gateway-payload-processing
+  - name: Praxis AI Grid
+    version: v0.3
+    repoUrl: https://github.com/opendatahub-io/praxis-ai-grid-operator
